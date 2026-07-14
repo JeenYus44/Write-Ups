@@ -1,4 +1,4 @@
-# HackTheBox — Fireflow (Insane)
+# HackTheBox — Fireflow (Medium)
 
 **Target:** `fireflow.htb` — `10.129.22.92`
 **OS:** Ubuntu 24.04 LTS (kernel `6.8.0-111-generic`), single-node **k3s** Kubernetes cluster
